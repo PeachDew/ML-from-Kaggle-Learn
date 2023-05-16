@@ -4,7 +4,7 @@ This repository contains Jupyter notebooks summarizing the Kaggle Learn courses.
 
 ## Table of Contents
 
-- [CV, XGBoost, and Data Leakage](notebooks/Kaggle_1.ipynb)
+- [CV, XGBoost, and Data Leakage](Kaggle_1.ipynb)
 - ...
 
 ### Prerequisites

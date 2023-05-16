@@ -1,2 +1,17 @@
-# ML-from-Kaggle-Learn
-Summary Notebooks from Kaggle Courses
+# Kaggle Learn Course Summaries
+
+This repository contains Jupyter notebooks summarizing the Kaggle Learn courses. Each notebook corresponds to a specific course and provides a concise summary of the key concepts, techniques, and code covered in that course.
+
+## Table of Contents
+
+- [CV, XGBoost, and Data Leakage](notebooks/Kaggle_1.ipynb)
+- ...
+
+### Prerequisites
+
+- Python 3.x
+- Jupyter Notebook
+
+## Acknowledgements
+
+The course summaries in this repository are based on the Kaggle Learn courses, which are available at [www.kaggle.com/learn](https://www.kaggle.com/learn). Special thanks to Kaggle for providing the valuable learning resources.

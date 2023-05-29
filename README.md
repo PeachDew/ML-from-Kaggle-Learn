@@ -4,10 +4,10 @@ This repository contains Jupyter notebooks summarizing the Kaggle Learn courses.
 
 ## Table of Contents
 
-- [**Intermediate ML:** Cross Validation, XGBoost, and Data Leakage](Kaggle_Intermediate_ML.ipynb)
-- [**Data Visualisation Techniques:** Line, Scatter, Histograms, and KDE plots](Kaggle_DataVis.ipynb)
-- [**Data Cleaning Techniques:** Dropping, Dealing with dates, Character Encoding, Inconsistent Entries, and more](Kaggle_DataCleaning.ipynb)
-- [**Feature Engineering Techniques:** MI, K-clustering, PCA, and Target Encoding](Kaggle_Feature.ipynb)
+- [**Intermediate ML:** *Cross Validation, XGBoost, and Data Leakage*](Kaggle_Intermediate_ML.ipynb)
+- [**Data Visualisation Techniques:** *Line, Scatter, Histograms, and KDE plots*](Kaggle_DataVis.ipynb)
+- [**Data Cleaning Techniques:** *Dropping, Dealing with dates, Character Encoding, Inconsistent Entries, and more*](Kaggle_DataCleaning.ipynb)
+- [**Feature Engineering Techniques:** *MI, K-clustering, PCA, and Target Encoding*](Kaggle_Feature.ipynb)
 
 ### Prerequisites
 
